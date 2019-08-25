@@ -1,0 +1,6 @@
+*.tar.gz
+*.tgz
+crohme-*
+*.txt
+*.png
+logs/*
