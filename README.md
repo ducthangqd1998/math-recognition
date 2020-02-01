@@ -57,3 +57,7 @@
 -   val
     -   loss: 1.6714
     -   exprate: 0.3663
+
+## Author
+
+Bilal Khan (bilal.software)
